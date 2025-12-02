@@ -30,4 +30,3 @@ Multimodal AI for LMIC outbreaks (Python ML pipeline). Code dropping post-Jan 20
 
 ## Contact
 Email: ogunsinajosepha@gmail.com
-
